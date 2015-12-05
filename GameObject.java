@@ -1,0 +1,5 @@
+public GameObject{
+     public GameObject(){
+          
+     }
+}
